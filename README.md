@@ -4,6 +4,7 @@
 I'm peibin , Fullstack developer from 🇨🇳 💖.  Currently living web3 universe🤘 .
 - 🔭 I’m currently working on IPFS/Filecoin 
 - 🌱 I’m currently learning IPLD & Solidity & React
+- 😎 I'm reading openzeppelin-contracts now 
 - 👯 I’m looking to collaborate on develop new projects
 - 🤔 I’m looking for technical help as well as financial helph 
 - 💬 Ask me about everything !
@@ -17,7 +18,7 @@ I'm peibin , Fullstack developer from 🇨🇳 💖.  Currently living web3 univ
 ##### 4. Filecoin China Hackathon  (Outstanding Potential & Nervos third prize)
 
 ### ✊Things I code with
-![](https://img.shields.io/badge/IPFS-IPFS-blue) ![](https://img.shields.io/badge/Filecoin-Filecoin-blue)     ![](https://img.shields.io/badge/python-3.9-orange) ![](https://img.shields.io/badge/Polygon-Polygon-yellow) ![](https://www.dusaiphoto.com/article/166/) ![](https://img.shields.io/badge/React-React-yellowgreen)
+![](https://img.shields.io/badge/IPFS-IPFS-blue) ![](https://img.shields.io/badge/Filecoin-Filecoin-blue)     ![](https://img.shields.io/badge/python-3.9-orange) ![](https://img.shields.io/badge/Polygon-Polygon-yellow) ![](https://www.dusaiphoto.com/article/166/) ![](https://img.shields.io/badge/React-React-yellowgreen) ![](https://img.shields.io/badge/solidity-solidity-ff69b4)
 
 
 
