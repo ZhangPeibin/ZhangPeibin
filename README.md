@@ -10,7 +10,7 @@ I'm peibin , Fullstack developer from 🇨🇳 💖.  Currently living web3 univ
 - 💬 Ask me about everything !
 - 📫 How to reach me: wiki4zhang@gmail.com
 
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZhangPeibin)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhangpeibin&show_icons=true&theme=radical)
 ### ✊Awards
 ##### 1. 2021 DoraHacks Filecoin Grant Hackathon (Third Place  )
 ##### 2. Polygon Presents BUIDL IT - India’s largest Web3 Hackathon !  (Best NFT Second place) 
