@@ -3,7 +3,7 @@
 ------
 ✊I'm peibin , Fullstack developer from 🇨🇳 💖.  Currently living web3 universe🤘 
 
-I have 10 years of development experience, 7 years of mobile development and 3 years of leading a team to build in web3.
+✊I have 10 years of development experience, 7 years of mobile development and 3 years of leading a team to build in web3.
 - 🔭 I’m currently working on Web3 
 - 🌱 I’m currently building  Solidity & React 
 - 😎 I'm studying Solidity & React  now 
@@ -13,12 +13,14 @@ I have 10 years of development experience, 7 years of mobile development and 3 y
 - 📫 How to reach me: wiki4zhang@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZhangPeibin&show_icons=true&theme=radical)
-### ✊Web3’s award-winning experience
-### ✊Awards
-##### 1. 2021 DoraHacks Filecoin Grant Hackathon (Third Place  )
-##### 2. Polygon Presents BUIDL IT - India’s largest Web3 Hackathon !  (Best NFT Second place) 
-##### 3. 2022-Wanxiang-Blockchain-Spring-Hackathon (PL Third Prize)
-##### 4. Filecoin China Hackathon  (Outstanding Potential & Nervos third prize)
+
+✊Web3’s award-winning experience
+
+✊Awards
+1. 2021 DoraHacks Filecoin Grant Hackathon (Third Place  ) 
+2. Polygon Presents BUIDL IT - India’s largest Web3 Hackathon !  (Best NFT Second place) 
+3. 2022-Wanxiang-Blockchain-Spring-Hackathon (PL Third Prize)
+4. Filecoin China Hackathon  (Outstanding Potential & Nervos third prize)
 
 
 ### ✊Things I code with
