@@ -12,8 +12,6 @@
 - 💬 Ask me about everything !
 - 📫 How to reach me: wiki4zhang@gmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZhangPeibin&show_icons=true&theme=radical)
-
 ✊Web3’s award-winning experience
 
 ✊Awards
