@@ -35,8 +35,8 @@ My work and interests sit at the intersection of **artificial intelligence** and
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=python,ts,nodejs,rust,solidity,flutter,dart,react,docker,git&theme=dark"
-    alt="Python, TypeScript, Node.js, Rust, Solidity, Flutter, Dart, React, Docker and Git"
+    src="https://skillicons.dev/icons?i=python,ts,nodejs,solidity,flutter,dart,react,docker,git&theme=dark"
+    alt="Python, TypeScript, Node.js, Solidity, Flutter, Dart, React, Docker and Git"
   />
 </p>
 
