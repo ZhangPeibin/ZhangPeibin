@@ -1,28 +1,69 @@
-### 👋 Hey ! Nice to see you !
+<div align="center">
 
-------
-✊I'm peibin , Fullstack developer from 🇨🇳 💖.  Currently living web3 universe🤘 
+# Peibin Zhang
 
-✊I have 10 years of development experience, 7 years of mobile development and 3 years of leading a team to build in web3.
-- 🔭 I’m currently working on Web3 
-- 🌱 I’m currently building  Solidity & React 
-- 😎 I'm studying Solidity & React  now 
-- 👯 I’m looking to collaborate on develop new projects
-- 🤔 I’m looking for technical help as well as financial help
-- 💬 Ask me about everything !
-- 📫 How to reach me: wiki4zhang@gmail.com
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=AI+%C3%97+Web3+Engineer;Engineering+reliable+intelligent+systems;Building+for+the+decentralized+future)](https://git.io/typing-svg)
 
-✊Web3’s award-winning experience
+**Full-stack engineer focused on AI and Web3**
 
-✊Awards
-1. 2021 DoraHacks Filecoin Grant Hackathon (Third Place  ) 
-2. Polygon Presents BUIDL IT - India’s largest Web3 Hackathon !  (Best NFT Second place) 
-3. 2022-Wanxiang-Blockchain-Spring-Hackathon (PL Third Prize)
-4. Filecoin China Hackathon  (Outstanding Potential & Nervos third prize)
+Based in Shenzhen, China · 10+ years in software engineering
 
+[![Email](https://img.shields.io/badge/Email-wiki4zhang%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:wiki4zhang@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-ZhangPeibin-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ZhangPeibin)
 
-### ✊Things I code with
-![](https://img.shields.io/badge/IPFS-IPFS-blue) ![](https://img.shields.io/badge/Filecoin-Filecoin-blue)     ![](https://img.shields.io/badge/python-3.9-orange) ![](https://img.shields.io/badge/Polygon-Polygon-yellow) ![](https://www.dusaiphoto.com/article/166/) ![](https://img.shields.io/badge/React-React-yellowgreen) ![](https://img.shields.io/badge/solidity-solidity-ff69b4)
+</div>
 
+---
 
+## About
 
+I am a full-stack engineer with experience across mobile development, distributed systems, Web3, and technical leadership.
+
+My work and interests sit at the intersection of **artificial intelligence** and **decentralized technology**. I care about turning emerging ideas into software that is practical, reliable, and maintainable.
+
+> Practical AI. Trustworthy Web3. Engineering that holds up in production.
+
+## Focus
+
+| AI | Web3 |
+|:---|:---|
+| AI-native software development | Smart contracts and EVM ecosystems |
+| AI agents and agent workflows | On-chain applications and infrastructure |
+| LLM applications and tool integration | Decentralized storage and data systems |
+| Reliable AI engineering practices | Secure and maintainable protocol engineering |
+
+## Technologies
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=python,ts,nodejs,rust,solidity,flutter,dart,react,docker,git&theme=dark"
+    alt="Python, TypeScript, Node.js, Rust, Solidity, Flutter, Dart, React, Docker and Git"
+  />
+</p>
+
+<p align="center">
+  AI Agents · LLM Applications · Solidity · Foundry · EVM · IPFS · Filecoin
+</p>
+
+## Recognition
+
+| Year | Award |
+|:---:|:---|
+| 2022 | Wanxiang Blockchain Spring Hackathon - PL Third Prize |
+| 2021 | DoraHacks Filecoin Grant Hackathon - Third Place |
+| - | Polygon Presents BUIDL IT - Best NFT, Second Place |
+| - | Filecoin China Hackathon - Outstanding Potential Award and Nervos Third Prize |
+
+## Engineering perspective
+
+- 10+ years across mobile, full-stack, and emerging technology
+- Experience leading engineering teams and delivering production systems
+- Interested in the convergence of AI agents, cryptography, and decentralized systems
+- Focused on clear architecture, engineering quality, and long-term maintainability
+
+---
+
+<div align="center">
+
+**AI expands what software can understand. Web3 changes what software can own.**
+
+</div>
