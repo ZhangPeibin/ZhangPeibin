@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Web3+%26+Full-stack+Engineer;Exploring+AI+developer+tooling;Session+automation+%26+workflow+orchestration)](https://git.io/typing-svg)
 
-**Web3 and full-stack engineer exploring AI developer tooling**
+**Building AI developer tooling with 11 years across full-stack, mobile, and Web3**
 
 Based in Shenzhen, China · 11 years in software engineering · 5 years focused on Web3
 
@@ -16,7 +16,7 @@ Based in Shenzhen, China · 11 years in software engineering · 5 years focused 
 
 ## About
 
-I am a full-stack engineer with 11 years of software engineering experience, including 5 years focused on Web3.
+I am an engineer building AI developer tooling, backed by 11 years across mobile, backend, full-stack, and Web3 systems.
 
 My background spans mobile applications, backend systems, wallet and payment infrastructure, EVM smart contracts, and technical leadership. I have worked across the full delivery path, from product architecture and application development to APIs, financial ledgers, wallets, and on-chain integration.
 
@@ -32,6 +32,19 @@ I am currently exploring **AI developer tooling**, with a particular interest in
 | Smart contracts and EVM systems | Safe session automation |
 | On-chain and off-chain integration | Cross-provider handoff workflows |
 | Decentralized storage and data | Agent workflow orchestration |
+
+## Featured Projects
+
+| Project | What it demonstrates |
+|:---|:---|
+| [Chaincraft](https://github.com/ZhangPeibin/chaincraft) | A safety-first, skill-driven agent workbench for explaining on-chain activity |
+| [AGENTS.md Templates](https://github.com/ZhangPeibin/peibin-agent.md) | Research-backed Go and Rust instructions evaluated with executable graders |
+| [SolidityLib](https://github.com/ZhangPeibin/SolidityLib) | Tested Solidity libraries, reference contracts, and educational EVM tooling |
+| [MerkleAirdrop](https://github.com/ZhangPeibin/MerkleAirdrop) | A Foundry implementation of Merkle-based ERC-20 claims and proof generation |
+
+Selected earlier work includes [IPFSpace](https://github.com/ZhangPeibin/IPFSpace),
+a decentralized storage and sharing prototype built with IPFS, Filecoin,
+Textile, and Ceramic.
 
 ## Experience
 
