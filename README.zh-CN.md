@@ -39,10 +39,9 @@
 
 | 项目 | 项目内容 |
 |:---|:---|
-| [Chaincraft](https://github.com/ZhangPeibin/chaincraft) | 以安全为先、由技能驱动的 Agent 工作台，用于解读链上活动 |
-| [AGENTS.md Templates](https://github.com/ZhangPeibin/peibin-agent.md) | 基于研究并经可执行评估器验证的 Go 和 Rust 指令模板 |
-| [SolidityLib](https://github.com/ZhangPeibin/SolidityLib) | 经过测试的 Solidity 库、参考合约和 EVM 教学工具 |
-| [MerkleAirdrop](https://github.com/ZhangPeibin/MerkleAirdrop) | 基于 Foundry 的 Merkle ERC-20 领取合约与证明生成实现 |
+| [Spotter](https://github.com/ZhangPeibin/spotter) | AI 辅助开发工具，聚焦简化代码、针对性验证和 Agent 工作流编排 |
+| [peibin-skills](https://github.com/ZhangPeibin/peibin-skills) | 面向 Codex、Claude Code 和 Cursor 的可复用 AI 编程技能与工程工作流 |
+| [Mudi](https://github.com/ZhangPeibin/mudi) | 用于观察和管理 Claude Code 与 Codex CLI 会话的本地 macOS 终端工具 |
 
 此前的代表项目还包括 [IPFSpace](https://github.com/ZhangPeibin/IPFSpace)，一个基于 IPFS、Filecoin、Textile 和 Ceramic 的去中心化存储与分享原型。
 
