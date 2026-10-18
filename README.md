@@ -42,6 +42,7 @@ I am currently exploring **AI developer tooling**, with a particular interest in
 | [Spotter](https://github.com/ZhangPeibin/spotter) | An AI-assisted development toolkit for simpler code, focused verification, and coordinated agent workflows |
 | [peibin-skills](https://github.com/ZhangPeibin/peibin-skills) | Reusable AI coding-agent skills and engineering workflows for Codex, Claude Code, and Cursor |
 | [Mudi](https://github.com/ZhangPeibin/mudi) | A local macOS TUI for observing and managing Claude Code and Codex CLI sessions |
+| [flutter-template](https://github.com/ZhangPeibin/flutter-template) | An AI-native Flutter foundation for Android and iOS apps, with enforced architecture and agent-ready workflows |
 
 Selected earlier work includes [IPFSpace](https://github.com/ZhangPeibin/IPFSpace),
 a decentralized storage and sharing prototype built with IPFS, Filecoin,

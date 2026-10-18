@@ -42,6 +42,7 @@
 | [Spotter](https://github.com/ZhangPeibin/spotter) | AI 辅助开发工具，聚焦简化代码、针对性验证和 Agent 工作流编排 |
 | [peibin-skills](https://github.com/ZhangPeibin/peibin-skills) | 面向 Codex、Claude Code 和 Cursor 的可复用 AI 编程技能与工程工作流 |
 | [Mudi](https://github.com/ZhangPeibin/mudi) | 用于观察和管理 Claude Code 与 Codex CLI 会话的本地 macOS 终端工具 |
+| [flutter-template](https://github.com/ZhangPeibin/flutter-template) | 面向 Android 和 iOS 的 AI-native Flutter 基础模板，提供架构检查和 Agent 工作流 |
 
 此前的代表项目还包括 [IPFSpace](https://github.com/ZhangPeibin/IPFSpace)，一个基于 IPFS、Filecoin、Textile 和 Ceramic 的去中心化存储与分享原型。
 
