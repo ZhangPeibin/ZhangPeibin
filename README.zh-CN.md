@@ -4,9 +4,9 @@
 
 [English](README.md) | [简体中文](README.zh-CN.md)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Web3+%26+全栈工程师;探索+AI+开发者工具;编码会话自动化+%26+工作流编排)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Web3+%26+全栈工程师;构建+AI+Agent+与开发者工具;Agent+工作流编排+%26+会话可观测性)](https://git.io/typing-svg)
 
-**拥有 11 年移动端、后端、全栈和 Web3 经验的软件工程师。目前正在开发 AI 开发者工具。**
+**拥有 11 年移动端、后端、全栈和 Web3 经验的软件工程师。目前专注于构建 AI Agent 与开发者工具，重点关注工作流编排、编码会话可观测性和安全自动化。**
 
 现居中国深圳 · 11 年软件工程经验 · 5 年 Web3 领域经验
 
@@ -18,17 +18,17 @@
 
 ## 关于我
 
-我是一名拥有 11 年移动端、后端、全栈和 Web3 经验的软件工程师，目前正在开发 AI 开发者工具。
+我是一名拥有 11 年移动端、后端、全栈和 Web3 经验的软件工程师，目前正在构建 AI Agent 与开发者工具，重点关注工作流编排、编码会话可观测性和安全自动化。
 
 我的经历涵盖移动应用、后端系统、钱包与支付基础设施、EVM 智能合约和技术团队管理。我参与过从产品架构、应用开发到 API、金融账本、钱包和链上集成的完整交付流程。
 
-目前，我关注 **AI 开发者工具**，尤其是本地优先的编码会话可观测性、安全的会话自动化，以及跨编码 Agent 的工作流编排。
+我目前专注于 **AI Agent 与开发者工具**，尤其是本地优先的编码会话可观测性、安全的会话自动化，以及跨编码 Agent 的工作流编排。
 
 > AI 可以加速实现，工程纪律让系统值得信赖。
 
 ## 关注方向
 
-| 核心经验 · Web3 系统 | 当前探索 · AI 开发者工具 |
+| 核心经验 · Web3 系统 | 当前方向 · AI Agent 与开发者工具 |
 |:---|:---|
 | 钱包与支付基础设施 | 编码会话可观测性 |
 | 智能合约与 EVM 系统 | 安全的会话自动化 |

@@ -4,9 +4,9 @@
 
 [English](README.md) | [简体中文](README.zh-CN.md)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Web3+%26+Full-stack+Engineer;Exploring+AI+developer+tooling;Session+automation+%26+workflow+orchestration)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Web3+%26+Full-stack+Engineer;Building+AI+agents+%26+developer+tools;Agent+orchestration+%26+session+observability)](https://git.io/typing-svg)
 
-**Software engineer with 11 years of experience across mobile, backend, full-stack, and Web3. Currently building AI developer tools.**
+**Software engineer with 11 years of experience across mobile, backend, full-stack, and Web3. Building AI agents and developer tools focused on workflow orchestration, coding-session observability, and safe automation.**
 
 Based in Shenzhen, China · 11 years in software engineering · 5 years focused on Web3
 
@@ -18,17 +18,17 @@ Based in Shenzhen, China · 11 years in software engineering · 5 years focused 
 
 ## About
 
-I am a software engineer with 11 years of experience across mobile, backend, full-stack, and Web3. I am currently building AI developer tools.
+I am a software engineer with 11 years of experience across mobile, backend, full-stack, and Web3. I am building AI agents and developer tools, focusing on workflow orchestration, coding-session observability, and safe automation.
 
 My background spans mobile applications, backend systems, wallet and payment infrastructure, EVM smart contracts, and technical leadership. I have worked across the full delivery path, from product architecture and application development to APIs, financial ledgers, wallets, and on-chain integration.
 
-I am currently exploring **AI developer tooling**, with a particular interest in local-first coding-session observability, safe session automation, and workflow orchestration across coding agents.
+My current work focuses on **AI agents and developer tooling**, especially local-first coding-session observability, safe session automation, and workflow orchestration across coding agents.
 
 > AI can accelerate implementation. Engineering discipline keeps systems trustworthy.
 
 ## Focus
 
-| Core expertise · Web3 systems | Currently exploring · AI developer tooling |
+| Core expertise · Web3 systems | Current focus · AI agents & developer tooling |
 |:---|:---|
 | Wallet and payment infrastructure | Coding-session observability |
 | Smart contracts and EVM systems | Safe session automation |
