@@ -1,17 +1,84 @@
+<div align="center">
+
 # Peibin Zhang
 
 [English](README.md) | [简体中文](README.zh-CN.md)
 
-拥有 11 年移动端、后端、全栈和 Web3 领域经验的软件工程师。目前专注于 AI 开发者工具，关注编码会话可观测性与 Agent 工作流。
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Web3+%26+全栈工程师;探索+AI+开发者工具;编码会话自动化+%26+工作流编排)](https://git.io/typing-svg)
 
-现居中国深圳。
+**拥有 11 年移动端、后端、全栈和 Web3 经验的软件工程师。目前正在开发 AI 开发者工具。**
+
+现居中国深圳 · 11 年软件工程经验 · 5 年 Web3 领域经验
+
+[![Email](https://img.shields.io/badge/Email-wiki4zhang%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:wiki4zhang@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-ZhangPeibin-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ZhangPeibin)
+
+</div>
+
+---
+
+## 关于我
+
+我是一名拥有 11 年移动端、后端、全栈和 Web3 经验的软件工程师，目前正在开发 AI 开发者工具。
+
+我的经历涵盖移动应用、后端系统、钱包与支付基础设施、EVM 智能合约和技术团队管理。我参与过从产品架构、应用开发到 API、金融账本、钱包和链上集成的完整交付流程。
+
+目前，我关注 **AI 开发者工具**，尤其是本地优先的编码会话可观测性、安全的会话自动化，以及跨编码 Agent 的工作流编排。
+
+> AI 可以加速实现，工程纪律让系统值得信赖。
+
+## 关注方向
+
+| 核心经验 · Web3 系统 | 当前探索 · AI 开发者工具 |
+|:---|:---|
+| 钱包与支付基础设施 | 编码会话可观测性 |
+| 智能合约与 EVM 系统 | 安全的会话自动化 |
+| 链上与链下集成 | 跨服务商的交接工作流 |
+| 去中心化存储与数据 | Agent 工作流编排 |
 
 ## 精选项目
 
-- [Spotter](https://github.com/ZhangPeibin/spotter) — AI 辅助开发工具，聚焦简化代码、针对性验证和 Agent 工作流编排。
-- [peibin-skills](https://github.com/ZhangPeibin/peibin-skills) — 面向 Codex、Claude Code 和 Cursor 的可复用 AI 编程技能与工程工作流。
-- [Mudi](https://github.com/ZhangPeibin/mudi) — 用于观察和管理 Claude Code 与 Codex CLI 会话的本地 macOS 终端工具。
+| 项目 | 项目内容 |
+|:---|:---|
+| [Chaincraft](https://github.com/ZhangPeibin/chaincraft) | 以安全为先、由技能驱动的 Agent 工作台，用于解读链上活动 |
+| [AGENTS.md Templates](https://github.com/ZhangPeibin/peibin-agent.md) | 基于研究并经可执行评估器验证的 Go 和 Rust 指令模板 |
+| [SolidityLib](https://github.com/ZhangPeibin/SolidityLib) | 经过测试的 Solidity 库、参考合约和 EVM 教学工具 |
+| [MerkleAirdrop](https://github.com/ZhangPeibin/MerkleAirdrop) | 基于 Foundry 的 Merkle ERC-20 领取合约与证明生成实现 |
 
-## 联系方式
+此前的代表项目还包括 [IPFSpace](https://github.com/ZhangPeibin/IPFSpace)，一个基于 IPFS、Filecoin、Textile 和 Ceramic 的去中心化存储与分享原型。
 
-[wiki4zhang@gmail.com](mailto:wiki4zhang@gmail.com)
+## 工作经验
+
+- 11 年移动端、后端、全栈和区块链工程经验
+- 5 年 Web3 应用与基础设施开发经验
+- 曾带领 5–6 人的跨职能 Web3 团队
+- 具备应用、API、金融账本、钱包和智能合约的端到端交付经验
+
+## 技术栈
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=go,python,ts,nodejs,java,solidity,flutter,dart,react,mysql,redis,git,githubactions&theme=dark"
+    alt="Go、Python、TypeScript、Node.js、Java、Solidity、Flutter、Dart、React、MySQL、Redis、Git 和 GitHub Actions"
+  />
+</p>
+
+<p align="center">
+  Foundry · EVM · Riverpod · IPFS · Filecoin · Agent 辅助开发
+</p>
+
+## 获奖经历
+
+| 年份 | 奖项 |
+|:---:|:---|
+| 2022 | [万向区块链春季黑客松](https://wxblockchain.medium.com/2022-wanxiang-blockchain-spring-hackathon-wrapped-up-on-june-12th-5b61a1645823) — Protocol Labs 特别奖，第三名 |
+| 2022 | [Filecoin 中国黑客松](https://twitter.com/Filecoin/status/1554491609668100098) — Protocol Labs 潜力奖及 Nervos 三等奖 |
+| 2021 | [DoraHacks Filecoin Grant 黑客松](https://www.filecoin.io/blog/249k-for-17-projects-from-dorahacks-filecoin-grant-hackathon) — 第三名 |
+| - | Polygon Presents BUIDL IT — 最佳 NFT，第二名 |
+
+---
+
+<div align="center">
+
+**深耕 Web3，探索 AI，立足工程。**
+
+</div>
